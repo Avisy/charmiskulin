@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Char Miskulin</title>
-    <link>https://www.charmiskulin.com/categories/</link>
+    <link>https://charmiskulin.com/categories/</link>
     <description>Recent content in Categories on Char Miskulin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2018 Charlene Miskulin</copyright>
     
-	<atom:link href="https://www.charmiskulin.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://charmiskulin.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
